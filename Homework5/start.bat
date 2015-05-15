@@ -1,0 +1,1 @@
+java -cp "bin/;libs/*" ru.kpfu.itis.group11408.etovladislav.Search.MainEntry -r c:// boot
